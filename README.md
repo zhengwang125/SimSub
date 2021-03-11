@@ -89,14 +89,14 @@ python3 estimate.py
 
 Please cite our paper if you find this code is useful
 ```
-@article{wang2020simsub,
-	title={Efficient and Effective Similar Subtrajectory Search with Deep Reinforcement Learning},
-	author={Wang, Zheng and Long, Cheng and Cong, Gao and Liu, Yiding},
-	journal={PVLDB},
-	volume={13},
-	number={11},
-	pages={12--25},
-	year={2020},
-	publisher={VLDB Endowment}
+@article{wang2020efficient,
+  title={Efficient and effective similar subtrajectory search with deep reinforcement learning},
+  author={Wang, Zheng and Long, Cheng and Cong, Gao and Liu, Yiding},
+  journal={Proceedings of the VLDB Endowment},
+  volume={13},
+  number={12},
+  pages={2312--2325},
+  year={2020},
+  publisher={VLDB Endowment}
 }
 ```
